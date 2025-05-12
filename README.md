@@ -25,4 +25,4 @@ RJ -> Manaus => 32
 Diante do problema, a equipe de Pesquisa Operacional precisa avaliar de quais plantas devem ser distribuídos os produtos para os clusters de clientes.
 
 A solução pode ser encontrada [aqui](Metodo_Transportes.ipynb).
-
+Uma solução alternativa e mais sofisticada pode ser encontrada [aqui](Metodo_Transportesv2.ipynb).
